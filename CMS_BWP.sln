@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS_BWP", "CMS_BWP\CMS_BWP.csproj", "{EB038555-6ACB-46AC-8E99-E3C257CD128D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CMS_Application", "CMS_Application\CMS_Application.vdproj", "{4ECA2D7F-1482-4DF3-9969-2D84F60FEA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB038555-6ACB-46AC-8E99-E3C257CD128D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB038555-6ACB-46AC-8E99-E3C257CD128D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB038555-6ACB-46AC-8E99-E3C257CD128D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB038555-6ACB-46AC-8E99-E3C257CD128D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECA2D7F-1482-4DF3-9969-2D84F60FEA74}.Debug|Any CPU.ActiveCfg = Debug
+		{4ECA2D7F-1482-4DF3-9969-2D84F60FEA74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DA4DFE-3CED-452E-9437-E59DF70F157B}
+	EndGlobalSection
+EndGlobal
